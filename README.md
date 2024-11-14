@@ -14,3 +14,6 @@ This application allows users to browse products, manage their orders, and make 
 3) JWT: Used for secure authentication and role-based access control.
 4) Redux: Centralized state management to handle user sessions, products, and orders.
 5) Razorpay: Integrated for simulating payment processing.
+
+# Repo Link for Shopeazy---Ecommerce---Backend
+https://github.com/Shubhtiwari29/Shopeazy---Ecommerce---Backend
