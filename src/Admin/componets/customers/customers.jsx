@@ -53,11 +53,7 @@ const Customers = () => {
               <TableRow hover key={item.name} sx={{ '&:last-of-type td, &:last-of-type th': { border: 0 } }}>
                 <TableCell> <Avatar >{item.firstName[0].toUpperCase()}</Avatar> </TableCell>
                 <TableCell>{item.firstName} {item.lastName}</TableCell>
-                <TableCell>{item.email}</TableCell>
-                
-                
-               
-               
+                <TableCell>{item.email}</TableCell>                            
               </TableRow>
             ))}
           </TableBody>
